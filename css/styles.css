@@ -577,13 +577,14 @@ header {}
     padding-bottom: 8px;
     background-color: transparent;
     color: #ffffff;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
+
     
 }
 .footer-input::placeholder {
     
-    font-size: 12px;
-    line-height: 2;
-    letter-spacing: 0.04em;
     color: #fff;
 }
 
@@ -713,11 +714,13 @@ header {}
 
 }
 
-.form-modal {}
+.form-modal {
+    
+}
 
 .modal-field {
    
-    margin-bottom: 24px;
+    margin-bottom: 8px;
     
 }
 .modal-comment {
