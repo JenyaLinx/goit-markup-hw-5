@@ -604,8 +604,11 @@ header {}
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
+
     
 }
+
+
 .fly-item {
     fill: #FFFFFF;
      margin-left: 16px;
