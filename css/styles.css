@@ -720,7 +720,7 @@ header {}
 
 .modal-field {
    
-    margin-bottom: 8px;
+    margin-bottom: 24px;
     
 }
 .modal-comment {
@@ -824,7 +824,7 @@ header {}
 }
 
 .check-span-element {
-    display: inline-flex;
+    display: flex;
     width: 16px;
     height: 16px;
     border-radius: 2px;
