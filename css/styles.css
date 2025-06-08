@@ -605,8 +605,13 @@ header {}
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
+    
 
     
+}
+.text-subscribe {
+    align-items: center;
+    display: flex;
 }
 
 
@@ -720,7 +725,7 @@ header {}
 
 .modal-field {
    
-    margin-bottom: 24px;
+    margin-bottom: 8px;
     
 }
 .modal-comment {
@@ -824,7 +829,7 @@ header {}
 }
 
 .check-span-element {
-    display: flex;
+    display: inline-flex;
     width: 16px;
     height: 16px;
     border-radius: 2px;
